@@ -1,0 +1,1 @@
+INSERT INTO `environment_history` (`id`, `clima_koppen`, `preciptation_month_mean_WC`, `preciptation_anual_mean_WC`, `temperature_month_mean_WC`, `temperature_annual_mean_WC`) VALUES ('', '', '', '', '', '')
